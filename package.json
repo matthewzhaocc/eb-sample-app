@@ -1,0 +1,23 @@
+{
+  "name": "eb-sample-app",
+  "version": "1.0.0",
+  "description": "a example ElasticBeanstalk App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewzhaocc/eb-sample-app.git"
+  },
+  "author": "Matthew Zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewzhaocc/eb-sample-app/issues"
+  },
+  "homepage": "https://github.com/matthewzhaocc/eb-sample-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
